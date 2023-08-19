@@ -7,5 +7,5 @@ Data Projects
 * Used Random Search and Grid Search to find best hyperparameters for a Random Forest Classifier
 * Random Forest Classifier had about 85% accuracy
 
-!(images/employment type and travel insurance.png)
-!(images/income and travel insurance.png)
+![](images/employment type and travel insurance.png)
+![](images/income and travel insurance.png)
